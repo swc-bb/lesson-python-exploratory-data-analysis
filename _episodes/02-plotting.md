@@ -1,5 +1,5 @@
 ---
-title: "Time Series Analysis"
+title: "Plotting with pandas and matplotlib"
 teaching: 25
 exercises: 20
 questions:
