@@ -1,5 +1,5 @@
 ---
-title: "Time Series Analysis with `pandas`"
+title: "Time Series Analysis"
 teaching: 45
 exercises: 20
 questions:
