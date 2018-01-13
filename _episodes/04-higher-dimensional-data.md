@@ -1,5 +1,5 @@
 ---
-title: "Analysis of Higher Dimensional (Spatial) Data"
+title: "Higher Dimensional (Spatial) Data"
 teaching: 45
 exercises: 20
 questions:
