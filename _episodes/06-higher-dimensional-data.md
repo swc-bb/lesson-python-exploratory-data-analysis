@@ -7,7 +7,7 @@ questions:
 objectives:
 - "Learn how to use xarray and pandas for higher dimensional data analysis."
 keypoints:
-- "Pandas rulez!"
+- "Xarray rulez!"
 ---
 
 ## Analysis of Higher Dimensional (Spatial) Data
